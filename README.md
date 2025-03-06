@@ -1,4 +1,4 @@
-\ **INFORMATION AND NETWORK SECURITY**
+ **INFORMATION AND NETWORK SECURITY**
 
 ## **ABOUT**
 **This repository contains implementations of various classical encryption techniques used in Information and Network Security. These algorithms are fundamental in cryptography and help in securing communication by encrypting sensitive information.**  
